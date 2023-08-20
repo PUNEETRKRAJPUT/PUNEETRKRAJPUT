@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <br clear="both">
 
 <h2 align="left">Hey there! I'm Puneet Kumar, a B.Tech CSE 4th year student 👋<br>Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself – I'm Puneet Kumar, a passionate computer science enthusiast currently pursuing my B.Tech in Computer Science and Engineering. I'm in my final year, and the world of technology never ceases to amaze me.<br><br>🌐 What I Bring to the Table<br>Programming Languages: I'm well-versed in HTML, CSS, JavaScript, PHP, and Java. These languages form the foundation of my coding journey and allow me to build dynamic and visually appealing web applications.<br><br>Data Visualization: I've had the opportunity to work with Power BI, a powerful tool for creating interactive and insightful data visualizations. This skill has enabled me to transform raw data into meaningful insights, aiding in informed decision-making.<br><br>Problem Solving: Data structures with Java have been a key focus of my studies. I enjoy tackling complex problems and implementing efficient solutions using data structures, algorithms, and coding techniques.<br><br>🚀 My GitHub Journey<br>On this platform, you'll find a collection of my projects, each reflecting my journey and growth as a developer. From responsive web designs to interactive JavaScript applications, I've poured my heart and soul into these repositories. Feel free to explore, fork, or even collaborate on any project that catches your eye!<br><br>📚 Learning and Growing<br>Learning is a continuous process, and I'm always excited to explore new technologies and trends in the world of software development. My GitHub serves as a testament to my commitment to improvement and innovation.<br><br>🤝 Let's Connect!<br>I'm always open to connecting with fellow developers, learners, and tech enthusiasts. Whether you want to discuss a project, share insights, or simply have a coding-related chat, feel free to reach out to me. Let's collaborate and make the tech world even more exciting together!<br><br>Thanks for visiting my profile – looking forward to crossing paths with you in the coding realm. Happy coding! 😄👨‍💻<br><br>Connect with me on:<br><br>LinkedIn: https://www.linkedin.com/in/puneet-kumar-173111236/<br>Email: puneet.kumar_cs20@gla.ac.in<br>"Stay curious, keep coding!" 🌟</h2>
@@ -63,7 +62,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://github.com/PUNEETRKRAJPUT" alt="Layout with last medium posts"  />
 </div>
 
 ###
